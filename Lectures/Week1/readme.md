@@ -1,4 +1,5 @@
-# Week 1 - content
+# Week 1 - 10.10.22 - 14.10.22
+## Slides
 
 - Introduction
 - Single Neuron
